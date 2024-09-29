@@ -1,0 +1,2 @@
+Prefix plugins/BED2IGV/example/
+Plugin BED2IGV inputfile output.bed outputfile output.igv
